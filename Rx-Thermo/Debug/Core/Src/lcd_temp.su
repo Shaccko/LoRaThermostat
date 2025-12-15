@@ -1,0 +1,5 @@
+../Core/Inc/lcd_temp.h:22:22:LCD_Backlight	16	static
+../Core/Src/lcd_temp.c:16:6:LCD_UpdateTemp	40	static
+../Core/Src/lcd_temp.c:31:6:LCD_UpdateSetpt	40	static
+../Core/Src/lcd_temp.c:47:6:LCD_UpdateAirMode	40	static
+../Core/Src/lcd_temp.c:64:6:LCD_HVACInit	48	static

@@ -1,0 +1,10 @@
+../Core/Inc/Tx-Commands.h:37:25:Get_TempUpButtonState	3
+../Core/Inc/Tx-Commands.h:42:25:Get_TempDownButtonState	3
+../Core/Inc/Tx-Commands.h:47:25:Get_HeatButtonState	2
+../Core/Inc/Tx-Commands.h:52:25:Get_ACButtonState	2
+../Core/Inc/Tx-Commands.h:57:25:Get_OffButtonState	1
+../Core/Src/main.c:87:5:main	9
+../Core/Src/main.c:197:6:SystemClock_Config	3
+../Core/Src/main.c:236:13:MX_NVIC_Init	1
+../Core/Src/main.c:248:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:262:6:Error_Handler	1

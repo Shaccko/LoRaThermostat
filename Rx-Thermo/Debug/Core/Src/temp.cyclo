@@ -1,0 +1,12 @@
+../Core/Inc/temp.h:54:22:HVAC_Heat	1
+../Core/Inc/temp.h:58:22:HVAC_AC	1
+../Core/Inc/temp.h:62:31:HVAC_GetACPinState	1
+../Core/Inc/temp.h:66:31:HVAC_GetHeatPinState	1
+../Core/Inc/lcd_temp.h:22:22:LCD_Backlight	1
+../Core/Src/temp.c:18:6:TempCtx_Init	1
+../Core/Src/temp.c:29:7:HVAC_ReadTemp	1
+../Core/Src/temp.c:36:6:HVAC_Report	1
+../Core/Src/temp.c:42:6:HVAC_TempChange	8
+../Core/Src/temp.c:78:9:IncrementTempSetpt	2
+../Core/Src/temp.c:82:9:DecrementTempSetpt	2
+../Core/Src/temp.c:86:6:EnterStopMode	2

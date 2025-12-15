@@ -1,0 +1,10 @@
+../Core/Src/Tx-Commands.c:15:9:TransmitHEATCommand	1
+../Core/Src/Tx-Commands.c:28:9:TransmitACCommand	1
+../Core/Src/Tx-Commands.c:41:9:TransmitTEMPUPCommand	2
+../Core/Src/Tx-Commands.c:56:9:TransmitTEMPDOWNCommand	2
+../Core/Src/Tx-Commands.c:71:9:TransmitOFFCommand	1
+../Core/Src/Tx-Commands.c:84:6:GeneratePacketMsg	2
+../Core/Src/Tx-Commands.c:103:6:LCD_StrInit	1
+../Core/Src/Tx-Commands.c:125:6:LCD_UpdateTemp	2
+../Core/Src/Tx-Commands.c:140:6:LCD_UpdateSetpt	2
+../Core/Src/Tx-Commands.c:155:6:LCD_UpdateAirMode	4

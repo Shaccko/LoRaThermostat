@@ -1,0 +1,9 @@
+../Core/Src/main.c:83:5:main	5
+../Core/Src/main.c:162:6:Task_ExecuteAlarm	1
+../Core/Src/main.c:166:6:Task_ExecuteTemperatureChange	1
+../Core/Src/main.c:170:6:Task_ExecuteCommands	2
+../Core/Src/main.c:179:6:SystemClock_Config	4
+../Core/Src/main.c:226:13:MX_NVIC_Init	1
+../Core/Src/main.c:242:6:HAL_RTC_AlarmAEventCallback	1
+../Core/Src/main.c:248:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:267:6:Error_Handler	1
