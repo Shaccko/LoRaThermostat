@@ -1,0 +1,16 @@
+../Si7021 TempSensor/Si7021_driver.c:17:14:process_temp_code	1
+../Si7021 TempSensor/Si7021_driver.c:22:14:process_humi_code	3
+../Si7021 TempSensor/Si7021_driver.c:34:17:convert_to_uint16	1
+../Si7021 TempSensor/Si7021_driver.c:39:15:r_reg	4
+../Si7021 TempSensor/Si7021_driver.c:63:15:w_reg	4
+../Si7021 TempSensor/Si7021_driver.c:84:8:r_single_Si7021	7
+../Si7021 TempSensor/Si7021_driver.c:113:8:r_both_Si7021	5
+../Si7021 TempSensor/Si7021_driver.c:143:8:r_firmware_rev_Si7021	5
+../Si7021 TempSensor/Si7021_driver.c:162:8:set_resolution_Si7021	8
+../Si7021 TempSensor/Si7021_driver.c:205:21:r_resolution_Si7021	2
+../Si7021 TempSensor/Si7021_driver.c:213:8:set_heater_current_Si7021	3
+../Si7021 TempSensor/Si7021_driver.c:229:8:r_heater_current_Si7021	2
+../Si7021 TempSensor/Si7021_driver.c:237:8:VDD_warning_Si7021	3
+../Si7021 TempSensor/Si7021_driver.c:248:8:enable_heater_Si7021	3
+../Si7021 TempSensor/Si7021_driver.c:271:8:rst_Si7021	2
+../Si7021 TempSensor/Si7021_driver.c:281:8:get_register	3
