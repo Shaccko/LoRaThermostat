@@ -2,7 +2,6 @@
 A 24V HVAC designed Thermostat built using the STM32 F103C8T6
 
 By Ghanim
-ghanimj@hotmail.com
 
 This is my first big capstone project, and it was done over the course of my final 
 year in computer science. Unfortunately no git commits since I wasn't wise enough
