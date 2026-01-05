@@ -155,4 +155,6 @@ This was a great project to get introduced to pcb design, basic electronics, and
 I jumped straight to making an LED blink to creating this monster of a project, the learning curve was enormous,
 but much was learned, and I am grateful I stuck through it. 
 
+<img width="781" height="483" alt="image" src="https://github.com/user-attachments/assets/a252f4ba-a791-467c-b176-0ec2583c1c6a" />
+
 
